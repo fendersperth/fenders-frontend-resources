@@ -92,14 +92,14 @@ CSS Secrets by Lea Verou is one of the best CSS books to come out this decade. O
 
 ## Local Community &amp; Mentors
 
-Mandy Michael  -   @mandy\_kerr (https://twitter.com/mandy\_kerr)
-Ben Derham - @benderham88 (https://twitter.com/benderham88)
-Amy Kapernick - @amys\_kapers ( [https://twitter.com/amys\_kapers](https://twitter.com/amys_kapers))
-Jess  Budd - @jessbudd4 (https://twitter.com/jessbudd4)
-Karl Brightman - @karlbright ( [https://twitter.com/karlbright](https://twitter.com/karlbright))
-Julie Grundy - @stringy (https://twitter.com/stringy)
-Kylie Timpani  - @kylietimpani (https://twitter.com/kylietimpani)
-Kevin Charm - @kevincharm ( [https://twitter.com/kevincharm](https://twitter.com/kevincharm))
+- Mandy Michael  -   @mandy\_kerr (https://twitter.com/mandy\_kerr)
+- Ben Derham - @benderham88 (https://twitter.com/benderham88)
+- Amy Kapernick - @amys\_kapers ( [https://twitter.com/amys\_kapers](https://twitter.com/amys_kapers))
+- Jess  Budd - @jessbudd4 (https://twitter.com/jessbudd4)
+- Karl Brightman - @karlbright ( [https://twitter.com/karlbright](https://twitter.com/karlbright))
+- Julie Grundy - @stringy (https://twitter.com/stringy)
+- Kylie Timpani  - @kylietimpani (https://twitter.com/kylietimpani)
+- Kevin Charm - @kevincharm ( [https://twitter.com/kevincharm](https://twitter.com/kevincharm))
 
 ## Podcasts
 - Toolsday ( [http://www.toolsday.io/](http://www.toolsday.io/))
