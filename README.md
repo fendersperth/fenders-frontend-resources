@@ -64,7 +64,7 @@ CSS Secrets by Lea Verou is one of the best CSS books to come out this decade. O
 ## People to follow on Twitter
 - Chris Coyier - @chriscoyier (https://twitter.com/chriscoyier)
 - Una Kravets - @una ( [https://twitter.com/Una](https://twitter.com/Una))
-- Andrew Clarke - @malarkey (https://twitter.com/Malarkey)
+- Andy Clarke - @malarkey (https://twitter.com/Malarkey)
 - Sara Soueidan - @SaraSoueidan (https://twitter.com/SaraSoueidan)
 - Harry Roberts - @csswizardry ( [https://twitter.com/csswizardry](https://twitter.com/csswizardry))
 - Brad Frost - @brad\_frost ( [https://twitter.com/brad\_frost](https://twitter.com/brad_frost))
@@ -90,11 +90,11 @@ CSS Secrets by Lea Verou is one of the best CSS books to come out this decade. O
 - Sarah Drasner @sarah\_edo ( [https://twitter.com/sarah\_edo](https://twitter.com/sarah_edo))
 - Hui Jing Chen @hj\_chen ( [https://twitter.com/hj\_chen](https://twitter.com/hj_chen))
 
-Local Community &amp; Mentors
+## Local Community &amp; Mentors
 
 Mandy Michael  -   @mandy\_kerr (https://twitter.com/mandy\_kerr)
 Ben Derham - @benderham88 (https://twitter.com/benderham88)
-Amy Kapernick - @amykate\_94 ( [https://twitter.com/amykate\_94](https://twitter.com/amykate_94))
+Amy Kapernick - @amys\_kapers ( [https://twitter.com/amys\_kapers](https://twitter.com/amys_kapers))
 Jess  Budd - @jessbudd4 (https://twitter.com/jessbudd4)
 Karl Brightman - @karlbright ( [https://twitter.com/karlbright](https://twitter.com/karlbright))
 Julie Grundy - @stringy (https://twitter.com/stringy)
@@ -109,18 +109,20 @@ Kevin Charm - @kevincharm ( [https://twitter.com/kevincharm](https://twitter.com
 - The Web Ahead (http://thewebahead.net/)
 - The Big Web Show ( [http://5by5.tv/bigwebshow](http://5by5.tv/bigwebshow))
 - Front End Happy Hour (http://frontendhappyhour.com/)
+- Syntax (https://syntax.fm/)
 
 ## Courses
+- Wes Bos (https://wesbos.com/courses/)
 
-### Videos
+## Videos
 - Layout Land - [https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
 
-### Free (Sign up required)
+## Free (Sign up required)
 - Code Academy (interactive and regularly updated with new content, good to get an idea of a new language or skill)
 - Khan Academy - [https://www.khanacademy.org/computing/computer-programming](https://www.khanacademy.org/computing/computer-programming)
 - Practical Javascript [https://watchandcode.com/p/practical-javascript](https://watchandcode.com/p/practical-javascript)
 
-### Paid
+## Paid
 - OneMonth.com
 - code.tutsplus.com
 - Treehouse.com (Lots of free previews)
@@ -130,7 +132,7 @@ Kevin Charm - @kevincharm ( [https://twitter.com/kevincharm](https://twitter.com
 - CSS Animation Rocks (pay what you want) - [https://cssanimation.rocks/courses/animation-101/](https://cssanimation.rocks/courses/animation-101/)
 - Skillcrush - [Free 10 day trial](https://skillcrush.com/skillcrush-10-day-bootcamp/)
 
-### Websites to learn from (free)
+## Websites to learn from (free)
 - Learn to Code HTML &amp; CSS - Beginner &amp; Advanced - [http://learn.shayhowe.com/](http://learn.shayhowe.com/)
 - Dash General Assembly - [https://dash.generalassemb.ly/](https://dash.generalassemb.ly/)
 - Learn To Code With Me - [http://learntocodewith.me/getting-started/](http://learntocodewith.me/getting-started/)
