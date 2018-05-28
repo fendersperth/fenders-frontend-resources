@@ -95,7 +95,7 @@ CSS Secrets by Lea Verou is one of the best CSS books to come out this decade. O
 
 ## Local Community &amp; Mentors
 
-- Mandy Michael  -   @mandy\_kerr (https://twitter.com/mandy\_kerr)
+- Mandy Michael  -   @mandy\_kerr (https://twitter.com/mandy_kerr)
 - Ben Derham - @benderham88 (https://twitter.com/benderham88)
 - Amy Kapernick - @amys\_kapers ( [https://twitter.com/amys\_kapers](https://twitter.com/amys_kapers))
 - Jess  Budd - @jessbudd4 (https://twitter.com/jessbudd4)
